@@ -1,0 +1,6 @@
+email:    atip.testmail@gmail.com    
+firstname:    atip
+lastname:    testmail
+phone:    0999999999
+password:    Pass1234
+expected_message:    ระบบได้ส่งรหัส OTP ไปยังเบอร์โทรศัพท์
